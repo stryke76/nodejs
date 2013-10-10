@@ -1,7 +1,7 @@
 nodejs
 ======
 
-Ein Debian Package für node.js v0.10.20
+Ein Rasbian Wheezy Paket für node.js v0.10.20
 
 Installation
 ============
